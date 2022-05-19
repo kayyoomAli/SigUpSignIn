@@ -9,7 +9,7 @@
 			<string>Editor</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>fb538302678024740</string>
+				<string></string>
 			</array>
 		</dict>
 		<dict>
@@ -18,14 +18,14 @@
 			<key>CFBundleURLSchemes</key>
 			<array>
 				<string>fbAPP-ID</string>
-				<string>com.googleusercontent.apps.305484628858-3vqmafo5tt78ak8bcojmem6vep1dgtbl</string>
+				<string></string>
 			</array>
 		</dict>
 	</array>
 	<key>FacebookAppID</key>
-	<string>538302678024740</string>
+	<string></string>
 	<key>FacebookClientToken</key>
-	<string>cf606b1dee8e22a20fc1523b10ebfc3d</string>
+	<string></string>
 	<key>FacebookDisplayName</key>
 	<string>DemoApp</string>
 	<key>LSApplicationCategoryType</key>
